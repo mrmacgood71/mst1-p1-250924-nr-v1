@@ -1,2 +1,5 @@
 rootProject.name = 'mst-p1-250924-nr-v1'
 
+includeBuild 'eureka-server'
+includeBuild 'eureka-client'
+includeBuild 'api-gateway'
